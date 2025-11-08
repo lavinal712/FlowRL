@@ -6,3 +6,4 @@ ray
 torch==2.5.1
 torchvision==0.20.1
 wandb
+xformers==0.0.29.post1

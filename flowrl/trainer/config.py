@@ -20,7 +20,7 @@ class AlgorithmConfig:
 
 @dataclass
 class DataConfig:
-    data_path: str = "prompts.txt"
+    pass
 
 
 @dataclass

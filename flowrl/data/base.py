@@ -1,0 +1,7 @@
+from omegaconf import DictConfig
+from torch.utils.data import Dataset
+
+
+class BaseDataset(Dataset):
+    def __init__(config: DictConfig):
+        pass
